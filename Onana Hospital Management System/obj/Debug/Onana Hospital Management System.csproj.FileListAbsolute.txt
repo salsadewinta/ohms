@@ -1,0 +1,91 @@
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.exe.config
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.Form1.resources
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.Properties.Resources.resources
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.exe
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.pdb
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.exe
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.pdb
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPatient.resources
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmEmployee.resources
+C:\Users\Onana Vicky\Desktop\ONANA HOSPITAL MANAGEMENT SYSTEM\Onana Hospital Management System\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUpdatePatient.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.exe.config
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.exe
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.pdb
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.exe
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.pdb
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.Form1.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmEmployee.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPatient.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUpdatePatient.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUsers.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.Properties.Resources.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmProduct.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmAppointment.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmConsultation.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmNurseTest.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmParent.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmSupplier.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmLogin.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmWard.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPayments.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmsplashScreen.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewAppointment.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewPatientWeight.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmMedication.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUpdatePassword.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewUsers.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewPatient.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmviewDailyTrans.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewDept.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPatientBills.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmHelp.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmupdateEmployee.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewEmployee.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmDocPrescription.resources
+C:\Users\Onana Vicky\Desktop\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewBills.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\IPMC_L3_Project\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.exe.config
+C:\Users\Onana Vicky\Desktop\WISDOM\IPMC_L3_Project\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.exe
+C:\Users\Onana Vicky\Desktop\WISDOM\IPMC_L3_Project\HOSPITALMANAGEMENT SYSTEM\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.pdb
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.exe.config
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.exe
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.pdb
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.Form1.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmAppointment.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmConsultation.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmDocPrescription.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmHelp.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmLogin.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmMedication.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmNurseTest.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmEmployee.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmParent.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPatientBills.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPayments.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmsplashScreen.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmSupplier.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmProduct.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPatient.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmupdateEmployee.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUpdatePassword.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUpdatePatient.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUsers.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewAppointment.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewBills.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmviewDailyTrans.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewDept.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewEmployee.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewPatient.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewPatientWeight.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewUsers.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmWard.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.Properties.Resources.resources
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.csproj.GenerateResource.cache
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.exe
+C:\Users\dIrA\source\repos\hospital-app\Hospital app\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.pdb
